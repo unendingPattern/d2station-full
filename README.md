@@ -43,7 +43,7 @@ Public source code for the popular (previously leaked) D2K5 Space Station 13 ser
 *   /tg/station13 - Various features which were ported.
 *   Baystation12 - Atmospherics, various other features.
 
-**Download:** [Latest Release](/releases/latest)
+**Download:** [Latest Release](https://github.com/unendingPattern/d2station-v4-codeonly/releases)
 
 This source code is extremely out of date and unstable, it contains many server and game breaking exploits.
 
