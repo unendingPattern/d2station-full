@@ -4,6 +4,8 @@
 
 Public source code for the popular (previously leaked) D2K5 Space Station 13 server D2Station, which operated from 2009 until 2013\. D2Station was a semi-serious roleplay server with hilarious controversial features (think hellMOO).
 
+*"This is floor. You walk on it. If you're not walking on it you're likely either in space or on a segway, in either case, god help you."*
+
 **Features:**
 
 *   Full API system for XenForo, which allows you to use bdBank and Trophies as the banking and achievement system in-game. This also allowed server and character statistics to be stored on the website.
