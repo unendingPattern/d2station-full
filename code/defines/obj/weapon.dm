@@ -428,7 +428,7 @@
 	origin_tech = "combat=3"
 
 /obj/item/weapon/melee/energy/sword
-	var/color
+	var/colour
 	name = "energy sword"
 	desc = "May the force be within you."
 	icon_state = "sword0"
@@ -885,7 +885,7 @@
 	icon = 'power.dmi'
 	icon_state = "coil_red"
 	var/amount = MAXCOIL
-	var/color = "red"
+	var/colour = "red"
 	desc = "A coil of power cable."
 	throwforce = 10
 	w_class = 2.0
@@ -1385,7 +1385,7 @@
 	name = "implant"
 	var/implanted = null
 	var/mob/imp_in = null
-	var/color = "b"
+	var/colour = "b"
 
 /obj/item/weapon/implant/freedom
 	name = "freedom"
@@ -2376,7 +2376,7 @@ Total SMES charging rate should not exceed total power generation rate, or an ov
 	throw_speed = 7
 	throw_range = 15
 	m_amt = 60
-	var/color = "green"
+	var/colour = "green"
 
 /obj/item/weapon/stamp/captain
 	name = "captain's rubber stamp"

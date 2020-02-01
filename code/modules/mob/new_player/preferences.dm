@@ -405,7 +405,7 @@ datum/preferences
 
 		var/list/destructive = assistant_occupations.Copy()
 		var/dat = "<html><body>"
-		dat += "<head><link rel='stylesheet' href='http://api.d2k5.com/sp4.css' /><style type=\"text/css\">"
+		dat += "<head><link rel='stylesheet' href='http://lemon.d2k5.com/ui.css' /><style type=\"text/css\">"
 		dat += "body, table{font-family: Tahoma; font-size: 10pt;}"
 		dat += "table {"
 		dat += "border-width: 0px;"

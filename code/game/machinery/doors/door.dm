@@ -240,7 +240,7 @@
 		icon_state = "door0"
 	return
 
-/obj/machinery/door/proc/animate(animation)
+/obj/machinery/door/proc/animater(animation)
 	switch(animation)
 		if("opening")
 			if(p_open)

@@ -363,10 +363,10 @@ Traitors and the like can also be revived with the previous role mostly intact.
 	if(!G_found)
 		alert("There is no active key like that in the game or the person is not currently a ghost. Aborting command.")
 		return
-	G_found << "\red <font size=3><B>HEY DUMB FUCK, YOU HAVE JUST BEEN RESPAWNED, RULES FOR THIS ARE THE FOLLOWING:</B></font>"
-	G_found << "\red <font size=3>1. YOU MUST USE A DIFFERENT NAME OTHER THAN THE ONE YOU DIED WITH</font>"
-	G_found << "\red <font size=3>2. YOU CAN NOT USE ANY INFORMATION FROM YOUR PREVIOUS CHARACTER</font>"
-	G_found << "\red <BR><font size=3><B>YOU WILL BE PERMABANNED ON SIGHT IF YOU BREAK EITHER OF THESE. WE ARE WATCHING YOU.</B></font>"
+	G_found << "\red <font size=5><B>HEY DUMB FUCK, YOU HAVE JUST BEEN RESPAWNED, RULES FOR THIS ARE THE FOLLOWING:</B></font>"
+	G_found << "\red <font size=5>1. YOU MUST USE A DIFFERENT NAME OTHER THAN THE ONE YOU DIED WITH</font>"
+	G_found << "\red <font size=5>2. YOU CAN NOT USE ANY INFORMATION FROM YOUR PREVIOUS CHARACTER</font>"
+	G_found << "\red <BR><font size=5><B>YOU WILL BE PERMABANNED ON SIGHT IF YOU BREAK EITHER OF THESE. WE ARE WATCHING YOU.</B></font>"
 	if(!G_found.client)
 		log_game("[G_found.key] AM failed due to disconnect.")
 		return

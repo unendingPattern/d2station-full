@@ -1218,7 +1218,7 @@ Frequency:
 	var/d1 = 0
 	var/d2 = 1
 	layer = 2.5
-	var/color="red"
+	var/colour="red"
 
 /obj/cable/yellow
 	color="yellow"

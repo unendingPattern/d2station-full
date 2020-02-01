@@ -744,8 +744,23 @@
 
 
 //shoes
+/obj/item/clothing/shoes/boots_wstockings
+	name = "Boots w/ Black Stockings"
+	icon_state = "boots_wstockings"
 
+/obj/item/clothing/shoes/brown_blackstockings
+	name = "Brown Shoes w/ Black Stockings"
+	icon_state = "brown_blackstockings"
 
+/obj/item/clothing/shoes/brown_whitestockings
+	name = "Brown Shoes w/ White Stockings"
+	icon_state = "brown_whitestockings"
+
+/obj/item/clothing/shoes/red_whitestockings
+	name = "Red Shoes w/ White Stockings"
+	icon_state = "red_whitestockings"
+
+//End Custom Outfits
 
 
 /obj/item/clothing/under/anime/lucy
@@ -815,7 +830,28 @@
 	desc = "On my station, all female members will be required to wear TINY MINISKIRTS!"
 
 /obj/item/clothing/suit/fursuit
+	name = "fursuit"
+	icon_state = "fursuit"
+	item_state = "s_suit"
+	desc = "Now everyone will want to burn you with plasma fires."
+	w_class = 3
+	flags = FPRINT | TABLEPASS | ONESIZEFITSALL
+	allowed = list(/obj/item/device/flashlight,/obj/item/weapon/tank/emergency_oxygen,/obj/item/toy)
+
+/obj/item/clothing/suit/fursuit/narky
 	name = "giant furfag suit"
 	icon_state = "narkysuit"
-	desc = "You are the bringer of furfaggotry"
+	desc = "You are the bringer of fur faggotry"
 	flags = FPRINT | TABLEPASS | ONESIZEFITSALL
+
+/obj/item/clothing/suit/fursuit/xenosuit
+	name = "Xenomorph Costume"
+	icon_state = "xenosuit"
+
+/obj/item/clothing/suit/fursuit/lxmsuit
+	name = "Xenomorph Maid Costume"
+	icon_state = "lxmsuit"
+
+/obj/item/clothing/suit/fursuit/xenosciencesuit
+	name = "Xenomorph Scientist Costume"
+	icon_state = "xenobiosuit"

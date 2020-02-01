@@ -56,27 +56,6 @@
 		obstacle.Bumped(src)
 	return
 
-/obj/mecha/combat/segway/verb/connect_to_port()
-	set name = "Connect to port"
-	set category = "Vehicle Interface"
-	set src in view(0)
-	if(!src.occupant) return
-	if(usr!=src.occupant)
-		return
-	if(!istype(src, /obj/mecha/combat/segway))
-		var/obj/machinery/atmospherics/portables_connector/possible_port = locate(/obj/machinery/atmospherics/portables_connector/) in loc
-		if(possible_port)
-			if(connect(possible_port))
-				src.occupant << "\blue [name] connects to the port."
-				src.verbs += /obj/mecha/verb/disconnect_from_port
-				src.verbs -= /obj/mecha/verb/connect_to_port
-				return
-			else
-				src.occupant_message("\red [name] failed to connect to the port.")
-				return
-		else
-			src.occupant_message("Nothing happens")
-
 /obj/mecha/combat/segway/cop
 	desc = "A fancy space segway, good for cops."
 	name = "Police Segway"
@@ -101,3 +80,17 @@
 /obj/mecha/combat/segway/clown/relaymove(mob/user,direction)
 	..()
 	playsound(src, 'bikehorn.ogg', 30, 1)
+
+/obj/mecha/combat/segway/fucker
+	desc = "NanoTrasen TM Fuckmachine"
+	name = "fuckmachine"
+	icon_state = "fuckmachine"
+
+
+/obj/mecha/combat/segway/fucker/New()
+	..()
+	src.icon_state = "fuckmachine-open"
+
+/obj/mecha/combat/segway/fucker/relaymove(mob/user,direction)
+	..()
+	playsound(src, 'squish.ogg', 5, 1)

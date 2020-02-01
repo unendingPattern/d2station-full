@@ -215,7 +215,10 @@
 			else if(istype(src, /turf/simulated/floor/spacedome/concrete))
 				footstepsound = "concretefootsteps"
 			else
-				footstepsound = "erikafootsteps"
+				if(icon == "natureicons.dmi")
+					footstepsound = "concretefootsteps"
+				else
+					footstepsound = "erikafootsteps"
 
 			if(istype(M:shoes, /obj/item/clothing/shoes))
 				if(M.m_intent == "run")

@@ -78,47 +78,6 @@ datum
 			on_update(var/atom/A)
 				return
 
-			//Reagent Temperatures - distribute_temperature_changes(enacted_temperature)
-			distribute_temperature_changes(enacted_temperature)
-				var/enact_temp = enacted_temperature			//The amount of temperature change that will be spread out to the reagents
-				var/temp_diff = 0
-				if(holder.reagent_list)
-					for(var/datum/reagent/T in holder.reagent_list)
-						temp_diff = abs(enact_temp - T.current_temp)
-						if(temp_diff > 0.5)
-							if(T.current_temp < enact_temp)
-								T.current_temp += temp_diff / T.volume
-							else
-								T.current_temp -= temp_diff / T.volume
-						T.check_phase_transition(current_temp)
-
-			//Making temperature changes in reagents do stuff (copy paste this into your code as you would with on_mob_life, reaction_turf, etc. and edit to your likings)
-			check_phase_transition(exposed_temperature)
-				current_temp = exposed_temperature
-				if(current_temp <= melting_temp)
-					if(reagent_state != SOLID)
-						reagent_state = SOLID
-						for(var/mob/O in viewers(world.view, holder.my_atom.loc))
-							O.show_message(text("\blue Something in the [] solidifies!", holder.my_atom.name), 1)		//Something in the beaker solidifes!
-						holder.handle_reactions()
-						return
-				else if(current_temp < boiling_temp && current_temp > melting_temp)
-					if(reagent_state != LIQUID)
-						reagent_state = LIQUID
-						for(var/mob/O in viewers(world.view, holder.my_atom.loc))
-							O.show_message(text("\blue Something in the [] liquifies!", holder.my_atom.name), 1)
-						holder.handle_reactions()
-						return
-				else if(current_temp >= boiling_temp)
-					if(reagent_state != GAS)
-						reagent_state = GAS
-						for(var/mob/O in viewers(world.view, holder.my_atom.loc))
-							O.show_message(text("\blue Something in the [] bubbles into vapour!", holder.my_atom.name), 1)
-							playsound(get_turf(holder.my_atom), 'bubbles.ogg', 80, 1)
-						holder.handle_reactions()
-						return
-				return
-
 /*			distribute_temperature_changes(enacted_temperature)
 				var/enact_temp = enacted_temperature			//The amount of temperature change that will be spread out to the reagents
 				var/temp_diff = 0

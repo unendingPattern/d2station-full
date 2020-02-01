@@ -5,7 +5,7 @@
 //	var/obj/item/clothing/master = null
 
 	var/see_face = 1.0
-	var/color = null
+	var/colour = null
 	var/clothinghealth = 100
 	var/poop_covering = 0
 	var/egg_covering = 0

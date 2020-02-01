@@ -9,7 +9,7 @@
 	var/valve_open = 0
 	var/release_pressure = ONE_ATMOSPHERE
 
-	var/color = "yellow"
+	var/colour = "yellow"
 	var/is_labeled = 0
 	var/filled = 0.5
 	pressure_resistance = 7*ONE_ATMOSPHERE
