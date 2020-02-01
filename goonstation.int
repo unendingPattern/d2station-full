@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: maps\trunkmap.dmm;code\game\machinery\teleporter.dm;code\game\machinery\bots\floorbot.dm;code\game\machinery\pipe\construction.dm;code\game\machinery\pipe\pipe_filter.dm;code\game\magic\library.dm;code\game\objects\shieldgen.dm;code\game\objects\items\weapons\game_kit.dm;code\WorkInProgress\Chemistry-Tools.dm;code\game\machinery\microwave.dm
+LAST_COMPILE_VERSION: 480.1088
+DIR: code code\datums code\datums\diseases code\defines code\defines\obj code\game code\game\gamemodes code\game\gamemodes\malfunction code\game\gamemodes\nuclear code\game\gamemodes\revolution code\game\gamemodes\ruby code\game\jobs code\game\machinery code\game\machinery\bots code\game\machinery\pipe code\game\magic code\game\objects code\game\objects\items code\game\objects\items\weapons code\WorkInProgress icons maps 
+FILE: code\WorkInProgress\Chemistry-Tools.dm
+LAST_COMPILE_TIME: 1302710171
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
