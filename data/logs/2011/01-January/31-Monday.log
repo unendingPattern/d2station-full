@@ -1,0 +1,47 @@
+
+
+Starting up. 13:26.57
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/mask/gas/emergency
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/reagent_containers/food/snacks/meatbread
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/reagent_containers/food/snacks/xenomeatbread
+ADMIN: Chair Chair/(Nori Taggart) deleted the xenomeatbread loaf at (188,258,8)
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/gloves/black
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/under/prototype_sp_suit
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/reagent_containers/food/snacks/humanburger
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/reagent_containers/food/snacks/humanburger
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/reagent_containers/food/snacks/humanburger
+ADMIN: Chair Chair/(Nori Taggart) jumped to Kitchen
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 17:11.23
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Nori Taggart)

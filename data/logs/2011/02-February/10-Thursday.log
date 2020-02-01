@@ -1,0 +1,97 @@
+
+
+Starting up. 00:05.47
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 01:12.23
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+
+
+Starting up. 01:20.19
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/head/helmet/space/rig
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/suit/space/rig
+ADMIN: Chair Chair/(Nori Taggart) jumped to 120,253,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 166,113,1 in Atmospherics
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) used secret carp
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/glasses/sunglasses
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) made all areas powered
+ADMIN: Chair Chair/(Nori Taggart) used secret power
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 164,113,1 in Atmospherics
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/pipedispenser
+ADMIN: Chair Chair/(Nori Taggart) jumped to 70,220,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 70,221,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 71,218,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 68,219,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 73,218,1 in Space
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 103,220,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/atmospherics/pipe/simple
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/lattice
+ADMIN: Chair Chair/(Nori Taggart) created a /turf/simulated/floor/plating
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/stack/tile
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/crowbar
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 06:02.51
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Nori Taggart)

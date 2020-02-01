@@ -1,0 +1,365 @@
+
+
+Starting up. 00:30.54
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 00:37.17
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 01:01.14
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/storage/guncase/energygun
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 01:13.49
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/storage/guncase/energygun
+ADMIN: Chair Chair/(Nori Taggart) jumped to 165,134,1 in Chemistry
+ADMIN: Chair Chair/(Nori Taggart) jumped to 165,133,1 in Chemistry
+ADMIN: Chair Chair/(Nori Taggart) jumped to 169,135,1 in Toxin Lab
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/dnainjector/m2h
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/dnainjector/m2h
+ADMIN: Chair Chair/(Nori Taggart) jumped to 88,129,1 in Robotics
+ADMIN: Chair Chair/(Nori Taggart) jumped to 87,124,1 in Medbay
+ADMIN: Chair Chair/(Nori Taggart) initiated a reboot.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 01:32.23
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Chair Chair)
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Chair Chair)
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) modified Maintenance Access's secondsElectrified to 0
+ADMIN: Chair Chair/(Nori Taggart) modified Maintenance Access's secondsElectrified to -1
+ADMIN: Chair Chair/(Nori Taggart) made Chair Chair/(Nori Taggart) drop everything!
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 111,95,1 in Weapons Lab
+ADMIN: Chair Chair/(Nori Taggart) created 3ea /obj/item/weapon/ammo/magnetrifle
+ADMIN: Chair Chair/(Nori Taggart) jumped to 102,87,1 in Weapons Lab
+ADMIN: Chair Chair/(Nori Taggart) created a /mob/living/carbon/alien/humanoid/sentinel
+ADMIN: Chair Chair/(Nori Taggart) created a /mob/living/carbon/human/cosby
+ADMIN: Chair Chair/(Nori Taggart) jumped to 119,99,1 in Aft Primary Hallway
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) has granted Chair Chair full access.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 13,290,2 in Mining Shuttle
+ADMIN: Chair Chair/(Nori Taggart) jumped to 11,291,2 in Mining Shuttle
+ADMIN: Chair Chair/(Nori Taggart) jumped to 13,292,2 in Mining Shuttle
+ADMIN: Chair Chair/(Nori Taggart) jumped to 13,289,2 in Mining Shuttle
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/mask/gas/swat
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/mask/gas
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 99,82,1 in Shuttle Docking Area
+ADMIN: Chair Chair/(Nori Taggart) used there can be only one.
+ADMIN: Chair Chair/(Nori Taggart) used Spawn Death Squad.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/shotgun
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/energy/taser_gun
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 120,216,1 in Fore Port Maintenance
+ADMIN: Chair Chair/(Nori Taggart) jumped to 114,211,1 in Fore Port Maintenance
+ADMIN: Chair Chair/(Nori Taggart) has toggled Chair Chair/(Nori Taggart)'s nodamage to On
+ADMIN: Chair Chair/(Nori Taggart) jumped to 116,210,1 in Fore Port Maintenance
+ADMIN: Chair Chair/(Nori Taggart) jumped to 118,202,1 in Central Primary Hallway
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 05:11.14
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+
+
+Starting up. 06:02.48
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during death reporting. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 120,126,1 in Engine Chambre
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 06:39.55
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/glasses/meson
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) deleted the rat at (136,122,1)
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/gloves/yellow
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 133,136,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 143,126,1 in Engine Chambre
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) modified Field Generator's overlays to /list
+ADMIN: Chair Chair/(Nori Taggart) modified Field Generator's overlays to /list
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 18:44.06
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Chair Chair)
+
+
+Starting up. 18:45.25
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+
+
+Starting up. 18:47.31
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/storage/toolbox/mechanical
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/field_generator
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/field_generator
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 19:03.14
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) has toggled Chair Chair/(Nori Taggart)'s nodamage to On
+ADMIN: Chair Chair/(Nori Taggart) jumped to 143,139,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 143,133,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 150,134,1 in Engine Chambre
+ADMIN: Chair Chair/(Nori Taggart) jumped to 149,145,1 in Engine Chambre
+ADMIN: Chair Chair/(Nori Taggart) jumped to 149,149,1 in Engine EVA
+ADMIN: Chair Chair/(Nori Taggart) jumped to 149,143,1 in Engine Chambre
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 143,130,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/revolver/mateba
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/revolver
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/ammo/a357
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/ammo/a357
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 149,131,1 in Engine Chambre
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 19:35.17
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/field_generator
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/field_generator
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/emitter
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/emitter
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/storage/toolbox/mechanical
+GAME: SQL ERROR during death reporting. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) jumped to 133,259,1 in Bridge
+GAME: SQL ERROR during death reporting. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) modified Nori Taggart's anchored to 1
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) jumped to 133,261,1 in Bridge
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 134,255,1 in Bridge
+ADMIN: Chair Chair/(Nori Taggart) jumped to 140,262,1 in Bridge
+ADMIN: Chair Chair/(Nori Taggart) jumped to 134,257,1 in Bridge
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 19:53.19
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) deleted the rat at (133,119,1)
+ADMIN: Chair Chair/(Nori Taggart) has toggled Chair Chair/(Nori Taggart)'s nodamage to On
+ADMIN: Chair Chair/(Nori Taggart) jumped to 149,138,1 in Engine Chambre
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/reagent_dispensers/fueltank
+ADMIN: Chair Chair/(Nori Taggart) modified weldingtool's max_fuel to 500
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/shoes/magboots
+ADMIN: Chair Chair/(Nori Taggart) jumped to 128,121,1 in Engine Chambre
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/suit/space/space_ninja
+ADMIN: Chair Chair/(Nori Taggart) jumped to 129,126,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) jumped to 133,136,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to 124,123,1 in Engine Chambre
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/gloves/black and /obj/item/clothing/shoes/black
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/revolver/mateba
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/ammo/a357
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/ammo/a38
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 109,162,1 in Hydroponics
+ADMIN: Immovable rod event failed due to lack of starting points
+ADMIN: Chair Chair/(Nori Taggart) jumped to 111,163,1 in Hydroponics
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to 113,89,1 in Weapons Lab
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/shotgun/combat
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/shotgun
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/energy/laser_gun/captain
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/energy/laser_gun
+ACCESS: Logout: Chair Chair/(Nori Taggart)

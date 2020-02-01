@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1330284353
+DIR: code code\defines code\defines\area code\defines\mob code\defines\mob\dead code\defines\obj code\game code\game\area code\game\jobs code\game\machinery code\game\machinery\bots code\game\machinery\computer code\game\machinery\pipe code\game\mecha code\game\mecha\combat code\modules code\modules\power icons icons\mob maps 
+UPDATE_OBJ_TREE: ON
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 493.1117
+WINDOW: code\defines\area\Space Station 13 areas.dm;code\game\supplyshuttle.dm;code\game\area\areas.dm;code\modules\power\sd_DynamicAreaLighting.dm;code\modules\power\lighting.dm;code\game\sound.dm
+FILE: code\game\sound.dm
+*/
+// END_INTERNALS

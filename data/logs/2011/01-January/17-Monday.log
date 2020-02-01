@@ -1,0 +1,73 @@
+
+
+Starting up. 13:47.09
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ADMIN: Banlist is empty.
+ADMIN: Banlist missing base dir.
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Chair Chair)
+
+
+Starting up. 13:48.46
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: Chair Chair/(Chair Chair)
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) has granted Chair Chair full access.
+ADMIN: Chair Chair/(Nori Taggart) jumped to Mining Dock
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to Aft Maintenance
+ADMIN: Chair Chair/(Nori Taggart) jumped to 122,77,1 in Engine Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 121,84,1 in Aft Primary Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 118,98,1 in Aft Port Maintenance
+ADMIN: Chair Chair/(Nori Taggart) jumped to 121,100,1 in Aft Primary Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 118,98,1 in Aft Port Maintenance
+ADMIN: Chair Chair/(Nori Taggart) deleted the weeds at (117,98,1)
+ADMIN: Chair Chair/(Nori Taggart) jumped to 122,98,1 in Aft Primary Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 117,118,1 in AI Chamber
+ADMIN: Chair Chair/(Nori Taggart) jumped to 117,125,1 in AI Upload Chamber
+ADMIN: Chair Chair/(Nori Taggart) jumped to 117,129,1 in AI Upload Chamber
+ADMIN: Chair Chair/(Nori Taggart) jumped to 117,130,1 in Space
+ADMIN: Chair Chair/(Nori Taggart) jumped to Prison Cell Block A
+ADMIN: Chair Chair/(Nori Taggart) jumped to AI Chamber
+ADMIN: Chair Chair/(Nori Taggart) jumped to 120,124,1 in AI Chamber
+ADMIN: Chair Chair/(Nori Taggart) jumped to 124,130,1 in AI Upload Chamber
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to Chapel
+ADMIN: Chair Chair/(Nori Taggart) jumped to 199,109,1 in Secondary Aft Starboard Maintenance
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) jumped to Port Primary Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 67,138,1 in Arrival Shuttle Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 72,140,1 in Port Primary Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 123,95,1 in Aft Starboard Maintenance
+ADMIN: Chair Chair/(Nori Taggart) jumped to Morgue
+ADMIN: Chair Chair/(Nori Taggart) jumped to 162,130,1 in Starboard Primary Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 51,124,1 in Arrival Shuttle Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 47,124,1 in Arrival Shuttle Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 49,130,1 in Arrival Shuttle Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 56,129,1 in Arrival Shuttle Hallway
+ADMIN: Chair Chair/(Nori Taggart) jumped to 111,102,1 in Aft Port Maintenance
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)

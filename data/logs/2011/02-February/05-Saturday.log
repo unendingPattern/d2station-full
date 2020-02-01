@@ -1,0 +1,133 @@
+
+
+Starting up. 03:19.18
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created 5ea /obj/livestock/zombie
+GAME: SQL ERROR during death reporting. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) jumped to Janitors Closet
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/suit/armor/vest/riot
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/head/helmet/riot
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/ore/plasma
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/gun/energy/Research/plasma_pistol
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) created an explosion (1,1,1,1) at (120,171,1)
+ADMIN: Chair Chair/(Nori Taggart) has toggled Chair Chair/(Nori Taggart)'s nodamage to On
+ADMIN: Chair Chair/(Nori Taggart) jumped to 120,164,1 in Aft Primary Hallway
+GAME: SQL ERROR during player polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) has toggled Chair Chair/(Nori Taggart)'s nodamage to Off
+ADMIN: Chair Chair/(Nori Taggart) has toggled Chair Chair/(Nori Taggart)'s nodamage to On
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) deleted Zombie at (143,210,1)
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) deleted Zombie at (141,229,1)
+ADMIN: Chair Chair/(Nori Taggart) deleted Zombie at (139,238,1)
+ADMIN: Chair Chair/(Nori Taggart) deleted the glass floor at (131,267,1)
+ADMIN: Chair Chair/(Nori Taggart) modified Enclave Officer Uniform's color to civilian_clothes1
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/decal/cleanable/poo
+ADMIN: Chair Chair/(Nori Taggart) jumped to 164,138,1 in Toxin Lab
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/chem_grenade/poo
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 04:11.39
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/chem_grenade/poo
+ADMIN: Chair Chair/(Nori Taggart) jumped to 164,134,1 in Chemistry
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/decal/cleanable/poo
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/clothing/mask/gas/emergency
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/machinery/atmospherics/pipe/tank/oxygen
+ADMIN: Chair Chair/(Nori Taggart) deleted Pressure Tank (Oxygen) at (164,130,1)
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/tank/oxygen
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 04:21.20
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/chem_grenade/poo
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/cleaner
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/storage/firstaid/syringes
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/decal/cleanable/poo
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/storage/beakerbox
+ADMIN: Chair Chair/(Nori Taggart) jumped to 164,134,1 in Chemistry
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/reagent_containers/syringe
+ADMIN: Chair Chair/(Nori Taggart) jumped to 164,138,1 in Toxin Lab
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
+
+
+Starting up. 05:06.40
+---------------------
+
+ADMIN: Loading jobban_rank
+ADMIN: jobban_keylist was empty
+ADMIN: Updating jobbanfile!
+ADMIN: Loading goon_keylist
+ADMIN: goon_keylist was empty
+ADMIN: Loading Banlist
+ACCESS: Login: Chair Chair/(Chair Chair) from 127.0.0.1
+ADMIN: Chair Chair has started the game.
+ACCESS: Logout: *no client*/(Chair Chair)
+ACCESS: Login: Chair Chair/(Nori Taggart) from 127.0.0.1
+ADMIN: Chair Chair/(Nori Taggart) created a /obj/item/weapon/chem_grenade/poo
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+ADMIN: Chair Chair/(Nori Taggart) jumped to 165,134,1 in Chemistry
+ADMIN: Chair Chair/(Nori Taggart) jumped to 165,133,1 in Chemistry
+ADMIN: Chair Chair/(Nori Taggart) jumped to 168,134,1 in Toxin Lab
+ADMIN: Chair Chair/(Nori Taggart) healed / revived Chair Chair/(Nori Taggart)
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+GAME: SQL ERROR during player polling. Failed to connect.
+GAME: SQL ERROR during admin polling. Failed to connect.
+ACCESS: Logout: Chair Chair/(Nori Taggart)
